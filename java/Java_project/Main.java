@@ -60,7 +60,7 @@ print(x);
 Strinc c = new Strinc("s");
 
 
-String str = "fuck the king kkkk ff fuck ";
+String str = "f*kkl the king kkkk ff f**ck ";
 print (str);
 
 str = c.fliter(str, 'f');
